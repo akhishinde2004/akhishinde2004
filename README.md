@@ -33,13 +33,6 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Soyabean Leaf Disease Detection
-
-Computer Vision system using YOLOv8 + TensorFlow
-📄 IEEE CNC 2025 Published
-
----
-
 ### 🤖 HireReady – AI Resume Screener
 
 🔗 https://hireready-three-lemon.vercel.app/
