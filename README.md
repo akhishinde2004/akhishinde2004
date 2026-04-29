@@ -20,14 +20,14 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-**Backend:** Node.js, Express, FastAPI
-**Frontend:** React, Next.js, Tailwind
-**Languages:** JavaScript, TypeScript, Python, Java
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis
-**AI/ML:** TensorFlow, YOLOv8, NLP
-**Tools:** AWS, Docker, Git, CI/CD
+🔹 **Backend:** Node.js, Express.js, FastAPI  
+🔹 **Frontend:** React.js, Next.js, Tailwind CSS  
+🔹 **Languages:** JavaScript, TypeScript, Python, Java  
+🔹 **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
+🔹 **AI/ML:** TensorFlow, YOLOv8, NLP (spaCy)  
+🔹 **Tools:** AWS, Docker, Git, CI/CD
 
 ---
 
