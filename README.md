@@ -35,7 +35,7 @@
 
 ### 🤖 HireReady – AI Resume Screener
 
-🔗 https://hireready-three-lemon.vercel.app/
+
 ➡️ NLP-based resume parsing & ranking system
 ➡️ Built with FastAPI + spaCy + React
 
@@ -43,7 +43,7 @@
 
 ### 🛒 CampusCart – Marketplace Platform
 
-🔗 https://campuscart-rouge.vercel.app/
+
 ➡️ MERN-based marketplace with JWT authentication
 ➡️ Scalable backend services & optimized APIs
 
